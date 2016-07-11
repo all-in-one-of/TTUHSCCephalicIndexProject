@@ -1,0 +1,4 @@
+Extreme scaphocephaly: TrasnverseWidthPointGRP/APLengthPointGRP = 60(<65) 
+Hyper scaphocephaly: TraveseWidthPointGRP/APLengthPointGRP= 67 (65-71)
+Normo: TraveseWidthPointGRP/APLengthPointGRP= ~83 (or whatever the default model ratio is) (72-85) Hyper brachycephaly: TransverseWidthPointGRP/APLengthPointGRP= 90 (86-95) 
+Extreme brahycephaly: TransverseWidthPointGRP/APLengthPointGRP= 100 (>95)

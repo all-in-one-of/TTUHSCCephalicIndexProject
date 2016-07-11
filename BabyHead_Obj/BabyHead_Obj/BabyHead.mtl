@@ -1,0 +1,16 @@
+newmtl EyeSG
+illum 4
+Kd 0.39 0.39 0.39
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 38.00
+newmtl HeadMaterialSG
+illum 4
+Kd 0.39 0.39 0.39
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 38.00
